@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>other</category>
+        <css>section.page {&#13;
+	background-color: $sp-homepage-bg;&#13;
+}&#13;
+section.page, main.body {&#13;
+    padding-top: 0px !important;&#13;
+}&#13;
+</css>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>candidatura_home</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>true</public>
+        <roles/>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 17:15:58</sys_created_on>
+        <sys_id>14f3adf397823110489d747e6253afb8</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>candidatura_home</sys_name>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_update_name>sp_page_14f3adf397823110489d747e6253afb8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 18:26:58</sys_updated_on>
+        <title>Candidatura - Home</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=14f3adf397823110489d747e6253afb8"/>
+</record_update>

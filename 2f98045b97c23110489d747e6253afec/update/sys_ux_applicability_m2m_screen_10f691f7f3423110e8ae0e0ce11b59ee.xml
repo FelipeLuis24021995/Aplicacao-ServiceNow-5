@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">90f691f7474231100ce3d15aaa4269f3</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">9cf691f74f4231106b22c341fefc19ed</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-29 16:19:13</sys_created_on>
+        <sys_id>10f691f7f3423110e8ae0e0ce11b59ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_10f691f7f3423110e8ae0e0ce11b59ee</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-29 16:19:13</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

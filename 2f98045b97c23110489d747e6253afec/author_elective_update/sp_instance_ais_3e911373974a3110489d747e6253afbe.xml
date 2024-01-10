@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais">
+    <sp_instance_ais action="DELETE">
+        <active>true</active>
+        <ai_search_source_filter/>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <disable_all_suggestions>false</disable_all_suggestions>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <placeholder/>
+        <roles/>
+        <search_application/>
+        <search_results_configuration/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">94f3e13797823110489d747e6253afd1</sp_column>
+        <sp_widget display_value="candidatura pesquisa">89a30bb3970a3110489d747e6253afca</sp_widget>
+        <spell_check_font_size>xl</spell_check_font_size>
+        <sys_class_name>sp_instance_ais</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-30 01:15:06</sys_created_on>
+        <sys_id>3e911373974a3110489d747e6253afbe</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_update_name>sp_instance_ais_3e911373974a3110489d747e6253afbe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-30 01:19:43</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_ais>
+    <sys_translated_text action="DELETE" query="documentkey=3e911373974a3110489d747e6253afbe"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Contratação">2f98045b97c23110489d747e6253afec</application>
+        <file_path/>
+        <instance_id>75ed3991db8bff400ae3ac44d4961901</instance_id>
+        <instance_name>dev90474</instance_name>
+        <name>sp_instance_ais_3e911373974a3110489d747e6253afbe</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais"><sp_instance_ais action="INSERT_OR_UPDATE"><active>true</active><ai_search_source_filter/><class_name/><color>default</color><css/><disable_all_suggestions>false</disable_all_suggestions><glyph/><id/><order>1</order><placeholder/><roles/><search_application/><search_results_configuration/><short_description/><size>md</size><sp_column display_value="1">94f3e13797823110489d747e6253afd1</sp_column><sp_widget display_value="candidatura pesquisa">89a30bb3970a3110489d747e6253afca</sp_widget><spell_check_font_size>xl</spell_check_font_size><sys_class_name>sp_instance_ais</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-30 01:15:06</sys_created_on><sys_id>3e911373974a3110489d747e6253afbe</sys_id><sys_mod_count>2</sys_mod_count><sys_name/><sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package><sys_policy/><sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope><sys_update_name>sp_instance_ais_3e911373974a3110489d747e6253afbe</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-30 01:19:43</sys_updated_on><title/><url/><widget_parameters/></sp_instance_ais><sys_translated_text action="delete_multiple" query="documentkey=3e911373974a3110489d747e6253afbe"/></record_update>]]></payload>
+        <payload_hash>1265695255</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>6398045b97c23110489d747e6253afef</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-30 01:19:43</sys_created_on>
+        <sys_id>e2a2d3f3974a3110489d747e6253af9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b7e2a4e030000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-30 01:19:43</sys_updated_on>
+        <type>Instance with Search</type>
+        <update_guid>2ea2d3f33e4a3110a3a2efd772725c9e</update_guid>
+        <update_guid_history>2ea2d3f33e4a3110a3a2efd772725c9e:1265695255,42025bb3014a31109a162afc9405165e:788408536,f29113737d4a311014e6c5f7311622c0:1265695255</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">3ea2dbb3974a3110489d747e6253af34</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-30 01:19:45</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_ais">sp_instance_ais</sys_db_object>
+        <sys_id>c663e898f1c24ce2acb9caa1f07f8db9</sys_id>
+        <sys_metadata>3e911373974a3110489d747e6253afbe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_scope_delete display_value="">1bd4c27df2b947a4a2659d1514e9c3c4</sys_scope_delete>
+        <sys_update_name>sp_instance_ais_3e911373974a3110489d747e6253afbe</sys_update_name>
+        <sys_update_version display_value="sp_instance_ais_3e911373974a3110489d747e6253afbe">e2a2d3f3974a3110489d747e6253af9f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-30 01:19:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

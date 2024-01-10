@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Formulário 3">eeeed8df97063110489d747e6253af18</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-27 22:59:21</sys_created_on>
+        <sys_id>325fd01397463110489d747e6253afec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Formulário 3</sys_name>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_325fd01397463110489d747e6253afec</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-27 22:59:21</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Contratação">2f98045b97c23110489d747e6253afec</application>
+        <file_path/>
+        <instance_id>75ed3991db8bff400ae3ac44d4961901</instance_id>
+        <instance_name>dev90474</instance_name>
+        <name>sc_cat_item_catalog_325fd01397463110489d747e6253afec</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Formulário 3">eeeed8df97063110489d747e6253af18</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-27 22:59:21</sys_created_on><sys_id>325fd01397463110489d747e6253afec</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Formulário 3</sys_name><sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package><sys_policy/><sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope><sys_update_name>sc_cat_item_catalog_325fd01397463110489d747e6253afec</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-27 22:59:21</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-801109780</payload_hash>
+        <record_name>Service Catalog.Formulário 3</record_name>
+        <reverted_from/>
+        <source>6398045b97c23110489d747e6253afef</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-27 22:59:21</sys_created_on>
+        <sys_id>fa5fd01397463110489d747e6253afee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b735d14250000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-27 22:59:21</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>725fd013b84631100393bbb0c708b3ee</update_guid>
+        <update_guid_history>725fd013b84631100393bbb0c708b3ee:-801109780</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Formulário 3">1b9f981397463110489d747e6253afbd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-27 23:00:30</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>597f6754da7a477daa0802249da62da9</sys_id>
+        <sys_metadata>325fd01397463110489d747e6253afec</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Formulário 3</sys_name>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_parent display_value="Formulário 3">eeeed8df97063110489d747e6253af18</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_scope_delete display_value="">1bd4c27df2b947a4a2659d1514e9c3c4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_325fd01397463110489d747e6253afec</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_325fd01397463110489d747e6253afec">fa5fd01397463110489d747e6253afee</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-27 23:00:30</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

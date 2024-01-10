@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>false</action_insert>
+        <action_update>false</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
+        <collection>x_1173448_contra_0_candidatura</collection>
+        <condition/>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description>formulário 4</description>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<br><hr><br>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <enable_dynamic_translation>false</enable_dynamic_translation>
+        <event_name/>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>triggered</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p>Prezado ${nome},</p>
+<p>Espero que esta mensagem o encontre bem. Gostar&iacute;amos de agendar a sua entrevista t&eacute;cnica para a posi&ccedil;&atilde;o de Desenvolvedor.</p>
+<p>&nbsp;</p>
+<p><strong>Data da Entrevista Sugerida</strong>: ${data_da_entrevista_tecnica}</p>
+<p>&nbsp;</p>
+<p>Por favor, confirme se a data sugerida &eacute; conveniente para voc&ecirc;, clicando no link abaixo: <a title="Aceita a data?" href="https://dev90474.service-now.com/com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=df01609397463110489d747e6253af72" target="_blank" rel="noopener">https://dev90474.service-now.com/com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=df01609397463110489d747e6253af72</a></p>
+<p>&nbsp;</p>
+<p>Neste formul&aacute;rio, voc&ecirc; ter&aacute; a op&ccedil;&atilde;o de aceitar ou recusar a data da entrevista t&eacute;cnica.</p>
+<p>Agradecemos a sua pronta resposta, pois isso nos permitir&aacute; programar a entrevista de acordo com a sua disponibilidade.</p>
+<p>Se voc&ecirc; tiver alguma d&uacute;vida ou precisar de assist&ecirc;ncia, sinta-se &agrave; vontade para entrar em contato conosco.</p>
+<p>Agradecemos pelo seu interesse na empresa e estamos ansiosos para conduzir a entrevista t&eacute;cnica.</p>
+<p>Atenciosamente,</p>
+<p>Time T&eacute;cnico</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Data da entrevista técnica</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields>e_mail</recipient_fields>
+        <recipient_groups/>
+        <recipient_users/>
+        <reply_to/>
+        <send_self>false</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject>Confirmação da Data da Entrevista Técnica</subject>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-28 07:29:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>46e2d25b970e3110489d747e6253affc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Data da entrevista técnica</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_update_name>sysevent_email_action_46e2d25b970e3110489d747e6253affc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-28 07:29:37</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template/>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>

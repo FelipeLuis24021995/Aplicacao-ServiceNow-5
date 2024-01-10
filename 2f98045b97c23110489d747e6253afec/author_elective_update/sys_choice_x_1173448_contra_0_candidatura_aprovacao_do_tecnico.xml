@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="aprovacao_do_tecnico" table="x_1173448_contra_0_candidatura" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>aprovacao_do_tecnico</element>
+            <name>x_1173448_contra_0_candidatura</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-27 21:52:49</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>aprovacao_do_tecnico</sys_name>
+            <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+            <sys_update_name>sys_choice_x_1173448_contra_0_candidatura_aprovacao_do_tecnico</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-27 21:52:49</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>aprovacao_do_tecnico</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Aguardando Aprovação</label>
+            <language>en</language>
+            <name>x_1173448_contra_0_candidatura</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-27 21:52:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8420d41397063110489d747e6253af45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-27 21:52:49</sys_updated_on>
+            <value>aguardando_aprova_o</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>aprovacao_do_tecnico</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Aprovado</label>
+            <language>en</language>
+            <name>x_1173448_contra_0_candidatura</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-27 21:52:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c020d41397063110489d747e6253af47</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-27 21:52:49</sys_updated_on>
+            <value>aprovado</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>aprovacao_do_tecnico</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Reprovado</label>
+            <language>en</language>
+            <name>x_1173448_contra_0_candidatura</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-27 21:52:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4020d41397063110489d747e6253af48</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-27 21:52:49</sys_updated_on>
+            <value>reprovado</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

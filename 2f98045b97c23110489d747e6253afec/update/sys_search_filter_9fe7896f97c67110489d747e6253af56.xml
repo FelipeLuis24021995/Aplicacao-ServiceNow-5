@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Formulário 1">5fe7896f97c67110489d747e6253af38</ais_search_source>
+        <label>Formulário 1</label>
+        <name>Formulário 1</name>
+        <order>200</order>
+        <search_context_config display_value="Contratação AI Search Configuration">a0e7856fa2c671108bfbd579971e006d</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-28 20:35:05</sys_created_on>
+        <sys_id>9fe7896f97c67110489d747e6253af56</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Formulário 1</sys_name>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_update_name>sys_search_filter_9fe7896f97c67110489d747e6253af56</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-28 20:35:05</sys_updated_on>
+    </sys_search_filter>
+</record_update>

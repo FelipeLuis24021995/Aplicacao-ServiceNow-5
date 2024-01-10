@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_1173448_contra_0_candidatura" version="2" view="Workspace-Contratação-0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_1173448_contra_0_candidatura" element="NULL" name="x_1173448_contra_0_candidatura" parent="NULL" relationship="NULL" sys_domain="global" view="28e7856fa6c671108b45af20a50aa86e">48f74d6f97c67110489d747e6253af93</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-28 20:35:09</sys_created_on>
+            <sys_id>80f74d6f97c67110489d747e6253af94</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-28 20:35:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>aprovacao_do_atendente</element>
+            <list_id display_value="x_1173448_contra_0_candidatura" element="NULL" name="x_1173448_contra_0_candidatura" parent="NULL" relationship="NULL" sys_domain="global" view="28e7856fa6c671108b45af20a50aa86e">48f74d6f97c67110489d747e6253af93</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-28 20:35:09</sys_created_on>
+            <sys_id>84f74d6f97c67110489d747e6253af94</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-28 20:35:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>aprovacao_do_tecnico</element>
+            <list_id display_value="x_1173448_contra_0_candidatura" element="NULL" name="x_1173448_contra_0_candidatura" parent="NULL" relationship="NULL" sys_domain="global" view="28e7856fa6c671108b45af20a50aa86e">48f74d6f97c67110489d747e6253af93</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-28 20:35:09</sys_created_on>
+            <sys_id>88f74d6f97c67110489d747e6253af94</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-28 20:35:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>data_1</element>
+            <list_id display_value="x_1173448_contra_0_candidatura" element="NULL" name="x_1173448_contra_0_candidatura" parent="NULL" relationship="NULL" sys_domain="global" view="28e7856fa6c671108b45af20a50aa86e">48f74d6f97c67110489d747e6253af93</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-28 20:35:09</sys_created_on>
+            <sys_id>8cf74d6f97c67110489d747e6253af94</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-28 20:35:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>data_2</element>
+            <list_id display_value="x_1173448_contra_0_candidatura" element="NULL" name="x_1173448_contra_0_candidatura" parent="NULL" relationship="NULL" sys_domain="global" view="28e7856fa6c671108b45af20a50aa86e">48f74d6f97c67110489d747e6253af93</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-28 20:35:09</sys_created_on>
+            <sys_id>48f74d6f97c67110489d747e6253afa1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-28 20:35:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>data_3</element>
+            <list_id display_value="x_1173448_contra_0_candidatura" element="NULL" name="x_1173448_contra_0_candidatura" parent="NULL" relationship="NULL" sys_domain="global" view="28e7856fa6c671108b45af20a50aa86e">48f74d6f97c67110489d747e6253af93</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-28 20:35:09</sys_created_on>
+            <sys_id>4cf74d6f97c67110489d747e6253afa1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-28 20:35:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>data_da_entrevista_tecnica</element>
+            <list_id display_value="x_1173448_contra_0_candidatura" element="NULL" name="x_1173448_contra_0_candidatura" parent="NULL" relationship="NULL" sys_domain="global" view="28e7856fa6c671108b45af20a50aa86e">48f74d6f97c67110489d747e6253af93</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-28 20:35:09</sys_created_on>
+            <sys_id>40f74d6f97c67110489d747e6253afa2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-28 20:35:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>data_da_entrevista_tecnica_aceita</element>
+            <list_id display_value="x_1173448_contra_0_candidatura" element="NULL" name="x_1173448_contra_0_candidatura" parent="NULL" relationship="NULL" sys_domain="global" view="28e7856fa6c671108b45af20a50aa86e">48f74d6f97c67110489d747e6253af93</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-28 20:35:09</sys_created_on>
+            <sys_id>44f74d6f97c67110489d747e6253afa2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-28 20:35:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>data_escolhida_entrevista_1</element>
+            <list_id display_value="x_1173448_contra_0_candidatura" element="NULL" name="x_1173448_contra_0_candidatura" parent="NULL" relationship="NULL" sys_domain="global" view="28e7856fa6c671108b45af20a50aa86e">48f74d6f97c67110489d747e6253af93</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-28 20:35:09</sys_created_on>
+            <sys_id>48f74d6f97c67110489d747e6253afa2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-28 20:35:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>e_mail</element>
+            <list_id display_value="x_1173448_contra_0_candidatura" element="NULL" name="x_1173448_contra_0_candidatura" parent="NULL" relationship="NULL" sys_domain="global" view="28e7856fa6c671108b45af20a50aa86e">48f74d6f97c67110489d747e6253af93</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-28 20:35:09</sys_created_on>
+            <sys_id>4cf74d6f97c67110489d747e6253afa2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-28 20:35:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1173448_contra_0_candidatura</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-28 20:35:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48f74d6f97c67110489d747e6253af93</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1173448_contra_0_candidatura</sys_name>
+            <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+            <sys_update_name>sys_ui_list_x_1173448_contra_0_candidatura_Workspace-x_1173448_contra_0-0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-28 20:35:09</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Contratação 0" name="Workspace-Contratação-0">28e7856fa6c671108b45af20a50aa86e</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

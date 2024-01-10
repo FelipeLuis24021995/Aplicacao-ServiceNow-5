@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_visibility">
+    <par_dashboard_visibility action="INSERT_OR_UPDATE">
+        <dashboard display_value="Contratação">2ce7856f53c6711012a16ddf63a3c66b</dashboard>
+        <experience display_value="Contratação">24e7856ff7c67110f8e38e6b1e8eb66c</experience>
+        <sys_class_name>par_dashboard_visibility</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-28 20:34:55</sys_created_on>
+        <sys_id>ece7856ff0c671101f6f39099567566f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_update_name>par_dashboard_visibility_ece7856ff0c671101f6f39099567566f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-28 20:34:55</sys_updated_on>
+    </par_dashboard_visibility>
+</record_update>

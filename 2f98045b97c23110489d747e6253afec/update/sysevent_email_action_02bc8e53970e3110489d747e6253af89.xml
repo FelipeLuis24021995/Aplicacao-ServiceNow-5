@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>false</action_insert>
+        <action_update>false</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
+        <collection>x_1173448_contra_0_candidatura</collection>
+        <condition/>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description>formulário 3</description>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<br><hr><br>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <enable_dynamic_translation>false</enable_dynamic_translation>
+        <event_name/>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>triggered</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p>Prezado ${nome},</p>
+<p>Gostar&iacute;amos de convidar voc&ecirc; para a nossa pr&oacute;xima reuni&atilde;o.</p>
+<p>Aqui est&atilde;o os detalhes da reuni&atilde;o:</p>
+<p>&nbsp;</p>
+<p><strong>Data</strong>: ${data_escolhida_entrevista_1}</p>
+<p>&nbsp;</p>
+<p>Por favor, confirme sua presen&ccedil;a respondendo a este e-mail at&eacute; em 1 dia.</p>
+<p>Se voc&ecirc; n&atilde;o puder comparecer &agrave; reuni&atilde;o, por favor, informe-nos o mais breve poss&iacute;vel para que possamos fazer os ajustes necess&aacute;rios.</p>
+<p>A sua presen&ccedil;a e contribui&ccedil;&atilde;o s&atilde;o muito importantes para n&oacute;s. Esperamos contar com voc&ecirc; na reuni&atilde;o.</p>
+<p>Ficamos &agrave; disposi&ccedil;&atilde;o para qualquer d&uacute;vida ou esclarecimento adicional.</p>
+<p>Atenciosamente,</p>
+<p>Atendentes.</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>Primeira reunião agendada</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields>e_mail,grupo.email</recipient_fields>
+        <recipient_groups/>
+        <recipient_users/>
+        <reply_to/>
+        <send_self>false</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject> Convite para Reunião Com time de atendentes</subject>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-28 07:01:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>02bc8e53970e3110489d747e6253af89</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Primeira reunião agendada</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_update_name>sysevent_email_action_02bc8e53970e3110489d747e6253af89</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-28 07:01:41</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template/>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>4</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">2349a97b97823110489d747e6253af2e</sp_column>
+        <sp_widget display_value="My Items">6e449453c33030105a09f0ad9840ddf0</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 17:46:48</sys_created_on>
+        <sys_id>440be13f97823110489d747e6253af1c</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_update_name>sp_instance_440be13f97823110489d747e6253af1c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 17:51:37</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=440be13f97823110489d747e6253af1c"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Contratação">2f98045b97c23110489d747e6253afec</application>
+        <file_path/>
+        <instance_id>75ed3991db8bff400ae3ac44d4961901</instance_id>
+        <instance_name>dev90474</instance_name>
+        <name>sp_instance_440be13f97823110489d747e6253af1c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>4</order><roles/><short_description/><size>md</size><sp_column display_value="1">2349a97b97823110489d747e6253af2e</sp_column><sp_widget display_value="My Items">6e449453c33030105a09f0ad9840ddf0</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-29 17:46:48</sys_created_on><sys_id>440be13f97823110489d747e6253af1c</sys_id><sys_mod_count>10</sys_mod_count><sys_name/><sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package><sys_policy/><sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope><sys_update_name>sp_instance_440be13f97823110489d747e6253af1c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-29 17:51:37</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=440be13f97823110489d747e6253af1c"/></record_update>]]></payload>
+        <payload_hash>932893026</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>6398045b97c23110489d747e6253afef</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 17:51:37</sys_created_on>
+        <sys_id>a61ce57f97823110489d747e6253afe6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b7c900e480000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 17:51:37</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>ee1ce57f0082311007e197bb97571ae5</update_guid>
+        <update_guid_history>ee1ce57f0082311007e197bb97571ae5:932893026,ab0ca57f4182311063b09761927ad6c5:1911241153,ba0ca57fd1823110b38510505df3aa83:-1405378016,41eb257f1f823110fe2734a00313450d:-427029889,10ebe17f4d823110ea1ce83f5a1a3cbd:551318238,6ddba17f1982311092d40ff25b420196:1529666365,28dba17f7e8231104b0f743d7ab76a1b:1796832883,0f3be53fb5823110ad250ee56462d074:-1519786286,362ba53f108231101db767920c61d825:1796832883,e31b253fc382311058ce71dfbcc8b7d2:1529666365,4c0be13f7f823110d385220cd086751d:551318238</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">1f1c297f97823110489d747e6253af39</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 17:51:40</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>2f516d56bc924d11a1e6bbdf419a7821</sys_id>
+        <sys_metadata>440be13f97823110489d747e6253af1c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_scope_delete display_value="">1bd4c27df2b947a4a2659d1514e9c3c4</sys_scope_delete>
+        <sys_update_name>sp_instance_440be13f97823110489d747e6253af1c</sys_update_name>
+        <sys_update_version display_value="sp_instance_440be13f97823110489d747e6253af1c">a61ce57f97823110489d747e6253afe6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 17:51:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Candidatura - Home - Container 5</name>
+        <order>5</order>
+        <sp_page display_value="candidatura_home">14f3adf397823110489d747e6253afb8</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 19:33:27</sys_created_on>
+        <sys_id>9a63c6f397063110489d747e6253af9e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Candidatura - Home - Container 5</sys_name>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_update_name>sp_container_9a63c6f397063110489d747e6253af9e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 20:29:57</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Contratação">2f98045b97c23110489d747e6253afec</application>
+        <file_path/>
+        <instance_id>75ed3991db8bff400ae3ac44d4961901</instance_id>
+        <instance_name>dev90474</instance_name>
+        <name>sp_container_9a63c6f397063110489d747e6253af9e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Candidatura - Home - Container 5</name><order>5</order><sp_page display_value="candidatura_home">14f3adf397823110489d747e6253afb8</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-29 19:33:27</sys_created_on><sys_id>9a63c6f397063110489d747e6253af9e</sys_id><sys_mod_count>2</sys_mod_count><sys_name>Candidatura - Home - Container 5</sys_name><sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package><sys_policy/><sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope><sys_update_name>sp_container_9a63c6f397063110489d747e6253af9e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-29 20:29:57</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-230620943</payload_hash>
+        <record_name>Candidatura - Home - Container 5</record_name>
+        <reverted_from/>
+        <source>6398045b97c23110489d747e6253afef</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 20:29:57</sys_created_on>
+        <sys_id>bd50da3397463110489d747e6253af06</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b7d2104b70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 20:29:57</sys_updated_on>
+        <type>Container</type>
+        <update_guid>f550da33d746311089eef0b0fd024006</update_guid>
+        <update_guid_history>f550da33d746311089eef0b0fd024006:-230620943,a47cc23ffc06311073a2442ca90d04a4:100181008,1263c6f3eb0631107a13496bf87e43a0:-230620943</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Candidatura - Home - Container 5">05601e3397463110489d747e6253affa</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 20:30:11</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>4684061d03874efaad175efd5ac1d711</sys_id>
+        <sys_metadata>9a63c6f397063110489d747e6253af9e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Candidatura - Home - Container 5</sys_name>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_scope_delete display_value="">1bd4c27df2b947a4a2659d1514e9c3c4</sys_scope_delete>
+        <sys_update_name>sp_container_9a63c6f397063110489d747e6253af9e</sys_update_name>
+        <sys_update_version display_value="sp_container_9a63c6f397063110489d747e6253af9e">bd50da3397463110489d747e6253af06</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 20:30:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="Contratação search profile">ace7856f3bc67110d104f6a487cc1b71</profile>
+        <search_source display_value="Formulário 3">dfe7896f97c67110489d747e6253af92</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-28 20:35:06</sys_created_on>
+        <sys_id>dbe7896f97c67110489d747e6253af94</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contratação search profile.Formulário 3</sys_name>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_dbe7896f97c67110489d747e6253af94</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-28 20:35:06</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

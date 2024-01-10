@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="dc4398d397063110489d747e6253afcd" label="Formulário 3" max_length="40" name="x_1173448_contra_0_formul_rio_3" text_index="true" type="collection">
+        <element label="E-mail" max_length="40" name="e_mail" type="string"/>
+        <element label="Nome" max_length="40" name="nome" type="string"/>
+        <element label="Nova data" max_length="40" name="nova_data" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Qual data você escolhe" max_length="40" name="qual_data_voce_escolhe" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Data 1" sequence="0" value="data_1"/>
+                <element inactive_on_update="false" label="Data 2" sequence="1" value="data_2"/>
+                <element inactive_on_update="false" label="Data 3" sequence="2" value="data_3"/>
+                <element inactive_on_update="false" label="Escolher outra data" sequence="3" value="escolher_outra_data"/>
+            </choice>
+        </element>
+    </element>
+</database>

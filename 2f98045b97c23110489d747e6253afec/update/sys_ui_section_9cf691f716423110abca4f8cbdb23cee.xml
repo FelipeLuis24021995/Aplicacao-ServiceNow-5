@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="9cf691f716423110abca4f8cbdb23cee" sys_domain="global" table="sysapproval_approver" version="3" view="custom_portal_approval_x_1173448_contra_0">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-10-29 16:19:11</sys_created_on>
+            <sys_id>d0f691f71d423110a608ee62b4c500ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="50f691f7c0423110fff8eeddb8cab3ef">9cf691f716423110abca4f8cbdb23cee</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-10-29 16:19:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sysapproval</element>
+            <position>1</position>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-10-29 16:19:11</sys_created_on>
+            <sys_id>54f691f7c2423110212caa8a6e9770ef</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sysapproval_approver" sys_domain="global" view="50f691f7c0423110fff8eeddb8cab3ef">9cf691f716423110abca4f8cbdb23cee</sys_ui_section>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-10-29 16:19:11</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sysapproval_approver</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2023-10-29 16:19:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9cf691f716423110abca4f8cbdb23cee</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sysapproval_approver</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+            <sys_update_name>sys_ui_section_9cf691f716423110abca4f8cbdb23cee</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2023-10-29 16:19:11</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Custom portal (x_1173448_contra_0)" name="custom_portal_approval_x_1173448_contra_0">50f691f7c0423110fff8eeddb8cab3ef</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

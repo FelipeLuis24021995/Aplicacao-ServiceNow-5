@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2ee1549397063110489d747e6253afaf" label="Formulário 2" max_length="40" name="x_1173448_contra_0_formul_rio_2" text_index="true" type="collection">
+        <element label="E-mail" max_length="40" name="e_mail" type="string"/>
+        <element label="Nome" max_length="40" name="nome" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Salário" max_length="40" name="salario" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1 mil reais" sequence="0" value="mil_reais"/>
+                <element inactive_on_update="false" label="2 mil reais" sequence="1" value="2mil_reais"/>
+                <element inactive_on_update="false" label="3 mil reais" sequence="2" value="3mil_reais"/>
+                <element inactive_on_update="false" label="4 mil reais" sequence="3" value="4mil_reais"/>
+                <element inactive_on_update="false" label="5 mil reais" sequence="4" value="5mil_reais"/>
+            </choice>
+        </element>
+    </element>
+</database>

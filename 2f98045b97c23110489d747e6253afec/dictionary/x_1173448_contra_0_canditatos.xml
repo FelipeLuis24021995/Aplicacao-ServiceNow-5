@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="54ad3ef497223110489d747e6253af92" extends="sys_import_set_row" label="Canditatos" max_length="40" name="x_1173448_contra_0_canditatos" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=E-mail" label="E-mail" max_length="40" name="u_e_mail" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Formação" label="Formação" max_length="40" name="u_formação" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Nome" label="Nome" max_length="40" name="u_nome" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Registro criado pelo Atendente?" label="Registro criado pelo Atendente?" max_length="40" name="u_registro_cri_elo_atendente_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Salário" label="Salário" max_length="40" name="u_salário" type="string"/>
+    </element>
+</database>

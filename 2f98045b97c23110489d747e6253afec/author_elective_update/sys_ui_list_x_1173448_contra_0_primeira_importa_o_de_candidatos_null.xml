@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_1173448_contra_0_primeira_importa_o_de_candidatos" version="2" view="">
+        <sys_ui_list action="DELETE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_1173448_contra_0_primeira_importa_o_de_candidatos</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path/>
+            <sys_id>0575d8c4975e3110489d747e6253af72</sys_id>
+            <sys_mod_count/>
+            <sys_name>x_1173448_contra_0_primeira_importa_o_de_candidatos</sys_name>
+            <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by/>
+            <sys_updated_on>2023-10-30 07:33:41</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Contratação">2f98045b97c23110489d747e6253afec</application>
+        <file_path/>
+        <instance_id>75ed3991db8bff400ae3ac44d4961901</instance_id>
+        <instance_name>dev90474</instance_name>
+        <name>sys_ui_list_x_1173448_contra_0_primeira_importa_o_de_candidatos_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_1173448_contra_0_primeira_importa_o_de_candidatos" version="2" view=""><sys_ui_list action="DELETE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_1173448_contra_0_primeira_importa_o_de_candidatos</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by/><sys_created_on/><sys_domain>global</sys_domain><sys_domain_path/><sys_id>0575d8c4975e3110489d747e6253af72</sys_id><sys_mod_count/><sys_name>x_1173448_contra_0_primeira_importa_o_de_candidatos</sys_name><sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package><sys_policy/><sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope><sys_update_name/><sys_updated_by/><sys_updated_on>2023-10-30 07:33:41</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>-764390612</payload_hash>
+        <record_name>x_1173448_contra_0_primeira_importa_o_de_candidatos</record_name>
+        <reverted_from/>
+        <source>6398045b97c23110489d747e6253afef</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-30 07:33:41</sys_created_on>
+        <sys_id>d8482cc8979e3110489d747e6253af59</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b7f80ace00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-30 07:33:41</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>14482cc8aa9e3110d4d7804165e15d59</update_guid>
+        <update_guid_history>14482cc8aa9e3110d4d7804165e15d59:-764390612</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-30 07:50:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>020b97c406084b00932397750ac13139</sys_id>
+        <sys_metadata>d4c8a40c979e3110489d747e6253af94</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1173448_contra_0_primeira_importa_o_de_candidatos</sys_name>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_parent display_value="">08c8a40c979e3110489d747e6253af79</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_scope_delete display_value="">1bd4c27df2b947a4a2659d1514e9c3c4</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_1173448_contra_0_primeira_importa_o_de_candidatos_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_1173448_contra_0_primeira_importa_o_de_candidatos_null">d8482cc8979e3110489d747e6253af59</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-30 07:50:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

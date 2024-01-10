@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="822bc8db97c23110489d747e6253affe" label="candidatura" max_length="40" name="x_1173448_contra_0_candidatura" text_index="true" type="collection">
+        <element choice="3" label="Aprovação do Atendente" max_length="40" name="aprovacao_do_atendente" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Aguardando Aprovação" sequence="0" value="aguardando_aprova_o"/>
+                <element inactive_on_update="false" label="Aprovado" sequence="1" value="aprovado"/>
+                <element inactive_on_update="false" label="Reprovado" sequence="2" value="reprovado"/>
+            </choice>
+        </element>
+        <element choice="3" label="Aprovação do técnico" max_length="40" name="aprovacao_do_tecnico" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Aguardando Aprovação" sequence="0" value="aguardando_aprova_o"/>
+                <element inactive_on_update="false" label="Aprovado" sequence="1" value="aprovado"/>
+                <element inactive_on_update="false" label="Reprovado" sequence="2" value="reprovado"/>
+            </choice>
+        </element>
+        <element label="Data 1" max_length="40" name="data_1" type="glide_date_time"/>
+        <element label="Data 2" max_length="40" name="data_2" type="glide_date_time"/>
+        <element label="Data 3" max_length="40" name="data_3" type="glide_date_time"/>
+        <element label="Data da entrevista técnica" max_length="40" name="data_da_entrevista_tecnica" type="glide_date_time"/>
+        <element choice="1" label="Data da entrevista Técnica aceita?" max_length="40" name="data_da_entrevista_tecnica_aceita" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Aceito" sequence="0" value="aceito"/>
+                <element inactive_on_update="false" label="Não aceito" sequence="1" value="n_o_aceito"/>
+            </choice>
+        </element>
+        <element choice="1" label="Data Escolhida/Entrevista 1" max_length="40" name="data_escolhida_entrevista_1" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Data 1" sequence="0" value="data_1"/>
+                <element inactive_on_update="false" label="Data 2" sequence="1" value="data_2"/>
+                <element inactive_on_update="false" label="Data 3" sequence="2" value="data_3"/>
+                <element inactive_on_update="false" label="Outra Data" sequence="3" value="outra_data"/>
+            </choice>
+        </element>
+        <element label="E-mail" max_length="40" name="e_mail" type="string"/>
+        <element choice="1" label="formação" max_length="40" name="formacao" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Fundamental" sequence="0" value="fundamental"/>
+                <element inactive_on_update="false" label="Técnico" sequence="1" value="t_cnico"/>
+                <element inactive_on_update="false" label="Curso" sequence="2" value="curso"/>
+                <element inactive_on_update="false" label="Superior" sequence="3" value="Superior"/>
+            </choice>
+        </element>
+        <element label="Grupo" max_length="32" name="grupo" reference="sys_user_group" type="reference"/>
+        <element label="Nome" max_length="40" name="nome" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Salário" max_length="40" name="salario" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1 mil reais" sequence="0" value="mil_reais"/>
+                <element inactive_on_update="false" label="2 mil reais" sequence="1" value="2mil_reais"/>
+                <element inactive_on_update="false" label="3 mil reais" sequence="2" value="3mil_reais"/>
+                <element inactive_on_update="false" label="4 mil reais" sequence="3" value="4mil_reais"/>
+                <element inactive_on_update="false" label="5 mil reais" sequence="4" value="5mil_reais"/>
+            </choice>
+        </element>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Candidato Reprovado pelo Técnico" value="Candidato_reprovado_tecnico"/>
+                <element inactive_on_update="false" label="Analisando Candidato" sequence="0" value="analisando_candidato"/>
+                <element inactive_on_update="false" label="Data da Entrevista Agendada" sequence="1" value="data_da_entrevista_agendada"/>
+                <element inactive_on_update="false" label="Avaliação do Time Técnico" sequence="2" value="avalia_o_do_time_t_cnico"/>
+                <element inactive_on_update="false" label="Entrevista Técnica Agendada" sequence="3" value="entrevista_t_cnica_agendada"/>
+                <element inactive_on_update="false" label="Candidato Reprovado pelo Atendente" sequence="4" value="candidato_reprovado_atendente"/>
+                <element inactive_on_update="false" label="Entrevista Cancelada" sequence="5" value="entrevista_cancelada"/>
+                <element inactive_on_update="false" label="Candidato Aprovado" sequence="6" value="candidato_aprovado"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="grupo"/>
+        </index>
+    </element>
+</database>

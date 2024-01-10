@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1173448_contra_0_formul_rio_4">x_1173448_contra_0_formul_rio_4</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1</number>
+        <prefix>FORMSSSS</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-27 22:21:22</sys_created_on>
+        <sys_id>96a6dc9797063110489d747e6253af69</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FORMSSSS</sys_name>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_update_name>sys_number_96a6dc9797063110489d747e6253af69</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-27 22:21:22</sys_updated_on>
+    </sys_number>
+</record_update>

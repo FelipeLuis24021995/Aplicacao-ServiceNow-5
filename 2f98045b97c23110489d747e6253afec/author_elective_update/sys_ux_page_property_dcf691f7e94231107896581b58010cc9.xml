@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="">1cf691f7774231102f4bc1f317d925c7</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Search Page">dcf691f78d423110ce95e5a2fe6b26eb</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-29 16:19:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>dcf691f7e94231107896581b58010cc9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_update_name>sys_ux_page_property_dcf691f7e94231107896581b58010cc9</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-29 16:19:14</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1173448_contra_0.1cf691f7774231102f4bc1f317d925c7.route.chrome_header.dcf691f78d423110ce95e5a2fe6b26eb</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Contratação">2f98045b97c23110489d747e6253afec</application>
+        <file_path/>
+        <instance_id>75ed3991db8bff400ae3ac44d4961901</instance_id>
+        <instance_name>dev90474</instance_name>
+        <name>sys_ux_page_property_dcf691f7e94231107896581b58010cc9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="">1cf691f7774231102f4bc1f317d925c7</page><required_translations>[]</required_translations><route display_value="Search Page">dcf691f78d423110ce95e5a2fe6b26eb</route><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-10-29 16:19:14</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>dcf691f7e94231107896581b58010cc9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package><sys_policy/><sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope><sys_update_name>sys_ux_page_property_dcf691f7e94231107896581b58010cc9</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-10-29 16:19:14</sys_updated_on><type>json</type><unique_name>x_1173448_contra_0.1cf691f7774231102f4bc1f317d925c7.route.chrome_header.dcf691f78d423110ce95e5a2fe6b26eb</unique_name><value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>302142854</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>f231d62097023110489d747e6253afed</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-10-19 18:13:36</sys_created_on>
+        <sys_id>fbef913397823110489d747e6253afe7</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18b492494800000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>bbef9133f68231109db7b53666ea76e7</update_guid>
+        <update_guid_history>bbef9133f68231109db7b53666ea76e7:302142854</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 16:58:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>0a7807185a7a4c2b80eb68fadbbce851</sys_id>
+        <sys_metadata>dcf691f7e94231107896581b58010cc9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_scope_delete display_value="">1bd4c27df2b947a4a2659d1514e9c3c4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_dcf691f7e94231107896581b58010cc9</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_dcf691f7e94231107896581b58010cc9">fbef913397823110489d747e6253afe7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 16:58:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

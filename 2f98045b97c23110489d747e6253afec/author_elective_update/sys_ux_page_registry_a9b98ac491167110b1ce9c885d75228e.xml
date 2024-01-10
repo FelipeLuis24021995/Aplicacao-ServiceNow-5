@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>21b98ac497167110489d747e6253af73</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <parent_app/>
+        <path>teste---can</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-30 14:39:32</sys_created_on>
+        <sys_id>a9b98ac491167110b1ce9c885d75228e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Teste - can</sys_name>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_update_name>sys_ux_page_registry_a9b98ac491167110b1ce9c885d75228e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-30 14:39:32</sys_updated_on>
+        <title>Teste - can</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Contratação">2f98045b97c23110489d747e6253afec</application>
+        <file_path/>
+        <instance_id>75ed3991db8bff400ae3ac44d4961901</instance_id>
+        <instance_name>dev90474</instance_name>
+        <name>sys_ux_page_registry_a9b98ac491167110b1ce9c885d75228e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>21b98ac497167110489d747e6253af73</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes>{"login":"login","logout": "login"}</auth_routes><page/><parent_app/><path>teste---can</path><root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-10-30 14:39:32</sys_created_on><sys_id>a9b98ac491167110b1ce9c885d75228e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Teste - can</sys_name><sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package><sys_policy/><sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope><sys_update_name>sys_ux_page_registry_a9b98ac491167110b1ce9c885d75228e</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-10-30 14:39:32</sys_updated_on><title>Teste - can</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-835540091</payload_hash>
+        <record_name>Teste - can</record_name>
+        <reverted_from/>
+        <source>f231d62097023110489d747e6253afed</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-10-19 18:13:36</sys_created_on>
+        <sys_id>006a4ec497167110489d747e6253af97</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18b492494800000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>cc6a4ec4eb167110b5527e624f3afd96</update_guid>
+        <update_guid_history>cc6a4ec4eb167110b5527e624f3afd96:-835540091</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-30 14:42:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>5f5df186be3f4e24ba1c38b2b6dae604</sys_id>
+        <sys_metadata>a9b98ac491167110b1ce9c885d75228e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Teste - can</sys_name>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_scope_delete display_value="">1bd4c27df2b947a4a2659d1514e9c3c4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_a9b98ac491167110b1ce9c885d75228e</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_a9b98ac491167110b1ce9c885d75228e">006a4ec497167110489d747e6253af97</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-30 14:42:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

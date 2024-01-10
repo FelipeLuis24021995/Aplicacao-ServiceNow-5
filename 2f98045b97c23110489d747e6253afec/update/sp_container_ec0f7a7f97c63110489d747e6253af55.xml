@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image>25a24fb3970a3110489d747e6253af60</background_image>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Candidatura - Home - Container 6</name>
+        <order>6</order>
+        <sp_page display_value="candidatura_home">14f3adf397823110489d747e6253afb8</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 23:53:51</sys_created_on>
+        <sys_id>ec0f7a7f97c63110489d747e6253af55</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>Candidatura - Home - Container 6</sys_name>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_update_name>sp_container_ec0f7a7f97c63110489d747e6253af55</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-30 00:38:01</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#dbf5e5</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>background_image</file_name>
+        <hash>67da57e4ea69eafc9929d1353fe959af579b45a18a6b0cce3a140e7b78af19fa</hash>
+        <image_height>924</image_height>
+        <image_width>1640</image_width>
+        <size_bytes>9765</size_bytes>
+        <size_compressed>964</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-30 00:09:45</sys_created_on>
+        <sys_id>25a24fb3970a3110489d747e6253af60</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-30 00:09:45</sys_updated_on>
+        <table_name>ZZ_YYsp_container</table_name>
+        <table_sys_id>ec0f7a7f97c63110489d747e6253af55</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="background_image" sys_id="25a24fb3970a3110489d747e6253af60">25a24fb3970a3110489d747e6253af60</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-30 00:09:45</sys_created_on>
+        <sys_id>65a24fb3970a3110489d747e6253af60</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>7VhLbBNHGJ5AFEFIEAjR8jqsRIUlyHr24XXixV5lYydNaEBt6krhxtg7jo3Wu8vuGG9OtHCgPXAE9YCqwp2gqAfEAdWHHCOoRC9IVdWqBw5NpUockLiks7uOE9tRDy0KyBpL1sx8/3O//9/xeL759MLHw4PHBgEAwzPTuTkABsoA7L67Z4Ai5yY0hw57nemLHgD7V4Jv3+0z+49TUCWT8yRrV6vYIsB3VUPN6VOLbvZ8yZjW1cTIZVUWBUEWBEVIjo0mJSWZlEeIKlGUgsLSkT0PAej/o5KfJ/PnZ9WiXY0jwy7guF8NYgKQ9lU6rWKCOL9qWp7qZ2KhhkrnAQxj2iDX/KRdo6TO5aaaqnSViZUJcVQI6/V6vC7HbXcBiqlUCgoSlCSeavDeokWQz1veSeqp3VUOe0W34pCKbXHBGhXsGsnEYi2tKI5RbIVxaq4ZBjGKEJs4oMWDYlxsy9IoqqRCTNyRuG6SDsSsBBFUE1kLmZjPG7iEaiaJaTSvyoLFebjKWXYVczwnpmFksMUD7HYKtwkNO570P5KgE+JWCi0iLC+OQqQWGMZpYSEyAiqENioiK1U3vI5H/xxf6SYjGBzkeji/6OBMbA57ds0t4m0cZl2MCDY0SZBkXhR4WUjDDlGXzaRPZgythBBGSlLglYRh8IlUYpRHQgHzSJZTY4JUUEoJqeUrMunyNFWgqCIpUlJJiQlxNKWMbcYPhV0mebtWLAePpW1638Q6qtVd5na64La0vqVCO1veqqDK4esa1JcKaH3ltvo6QQvWSNl2tSlsVhzMfTExOadP6Gm4RfTWc6RbxvY5+sjp6kGqHDWF7eZt29SyyLqK0rAT/rck20V0B9oKtXYw7Qfz+d8AcPdncnrev7v2QuwD3FBDaPz48vf7Jz4afFN/tjoS7npAelmLJg176Fg4+fJbfXc4OSCXI1FhYDgcx1e/7wsnXx9NRBLxxkA4cqWfImCFOVneB8D6+tqL5WDR4K79eXHt9K3+SLsx23S8yoD/DexiPDOeewhgPDOeexEIThqM8B0AWGMznnsJYDwznnsJYDy/k4PHL/cONjjQr2fXH3ymn1I/OPTJhzcvPbr+evTVrkhxfHbjP/zejYuAr5oXAaeaPlf6Ny4CxpsXAYc2LgLeYye3Hn/3/HgkXJJ+XT/7JMJ/Ox1/uiPJLw+zjmc7Sw8BjGfGcy8BjOd3ciJhhLPG7g2A8cx47iUg5PkvxvOO/SB6Dw/c/vnO0OFgNTN5Ibc0cen6Pwbva6QlJgAA</data>
+        <length>1272</length>
+        <position>1</position>
+        <sys_attachment display_value="background_image" sys_id="25a24fb3970a3110489d747e6253af60">25a24fb3970a3110489d747e6253af60</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-30 00:09:45</sys_created_on>
+        <sys_id>e5a24fb3970a3110489d747e6253af60</sys_id>
+    </sys_attachment_doc>
+</record_update>

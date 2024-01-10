@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="Contratação">24e7856ff7c67110f8e38e6b1e8eb66c</page>
+        <required_translations>[ {
+  "message" : "New Formulário 1",
+  "comment" : ""
+}, {
+  "message" : "New Formulário 2",
+  "comment" : ""
+}, {
+  "message" : "New Formulário 3",
+  "comment" : ""
+}, {
+  "message" : "New Formulário 4",
+  "comment" : ""
+}, {
+  "message" : "New Incident",
+  "comment" : ""
+}, {
+  "message" : "New Interaction",
+  "comment" : ""
+}, {
+  "message" : "New candidatura",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-28 20:34:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>68e7856f7dc67110c01ede6c026fca6f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_update_name>sys_ux_page_property_68e7856f7dc67110c01ede6c026fca6f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-28 20:35:05</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1173448_contra_0.24e7856ff7c67110f8e38e6b1e8eb66c.root.chrome_tab</unique_name>
+        <value>{"contextual":["record"],"newTabMenu":[{"label":{"translatable":true,"message":"New Interaction"},"routeInfo":{"route":"record","fields":{"table":"interaction","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"interaction","canCreate":true}}},{"label":{"translatable":true,"message":"New Incident"},"routeInfo":{"route":"record","fields":{"table":"incident","sysId":"-1"},"multiInstField":"sysId"}},{"label":{"translatable":true,"message":"New Formulário 1"},"routeInfo":{"route":"record","fields":{"table":"x_1173448_contra_0_formul_rio_1","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1173448_contra_0_formul_rio_1","canCreate":true}}},{"label":{"translatable":true,"message":"New Formulário 2"},"routeInfo":{"route":"record","fields":{"table":"x_1173448_contra_0_formul_rio_2","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1173448_contra_0_formul_rio_2","canCreate":true}}},{"label":{"translatable":true,"message":"New Formulário 3"},"routeInfo":{"route":"record","fields":{"table":"x_1173448_contra_0_formul_rio_3","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1173448_contra_0_formul_rio_3","canCreate":true}}},{"label":{"translatable":true,"message":"New Formulário 4"},"routeInfo":{"route":"record","fields":{"table":"x_1173448_contra_0_formul_rio_4","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1173448_contra_0_formul_rio_4","canCreate":true}}},{"label":{"translatable":true,"message":"New candidatura"},"routeInfo":{"route":"record","fields":{"table":"x_1173448_contra_0_candidatura","sysId":"-1"},"multiInstField":"sysId"},"condition":{"tableDescription":{"table":"x_1173448_contra_0_candidatura","canCreate":true}}}],"maxMainTabLimit":10,"maxTotalSubTabLimit":30}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=68e7856f7dc67110c01ede6c026fca6f"/>
+</record_update>

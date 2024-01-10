@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>database</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Adicionar candidatos por Excel</short_description>
+        <size>md</size>
+        <sp_column display_value="2">8586ac48979e3110489d747e6253af4c</sp_column>
+        <sp_page/>
+        <sp_widget display_value="candidatura icon 5">88532444979e3110489d747e6253af15</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-30 07:12:59</sys_created_on>
+        <sys_id>59832c84979e3110489d747e6253af8e</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Data Sources</sys_name>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_update_name>sp_instance_link_59832c84979e3110489d747e6253af8e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-30 07:26:08</sys_updated_on>
+        <title>Data Sources</title>
+        <type>url</type>
+        <url>https://dev90474.service-now.com/now/nav/ui/classic/params/target/sys_data_source_list.do</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=59832c84979e3110489d747e6253af8e"/>
+</record_update>

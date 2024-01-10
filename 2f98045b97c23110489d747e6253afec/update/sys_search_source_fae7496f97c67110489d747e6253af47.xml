@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_1173448_contra_0_formul_rio_4">active=true</condition>
+        <group/>
+        <name>Contratação - x_1173448_contra_0_formul_rio_4</name>
+        <roles/>
+        <source_table>x_1173448_contra_0_formul_rio_4</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-28 20:35:03</sys_created_on>
+        <sys_id>fae7496f97c67110489d747e6253af47</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contratação - x_1173448_contra_0_formul_rio_4</sys_name>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_update_name>sys_search_source_fae7496f97c67110489d747e6253af47</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-28 20:35:03</sys_updated_on>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=fae7496f97c67110489d747e6253af47"/>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2da0505397063110489d747e6253af7f" label="Formulário 1" max_length="40" name="x_1173448_contra_0_formul_rio_1" text_index="true" type="collection">
+        <element label="E-mail" max_length="40" name="e_mail" type="string"/>
+        <element choice="1" label="Formação" max_length="40" name="formacao" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Fundamental" sequence="0" value="fundamental"/>
+                <element inactive_on_update="false" label="Técnico" sequence="1" value="t_cnico"/>
+                <element inactive_on_update="false" label="Curso" sequence="2" value="curso"/>
+                <element inactive_on_update="false" label="Superior" sequence="3" value="Superior"/>
+            </choice>
+        </element>
+        <element label="Nome" max_length="40" name="nome" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Registro criado pelo Atendente?" max_length="30" name="registro_criado_pelo_atendente" type="choice">
+            <choice>
+                <element dependent_value="Sim" inactive_on_update="false" label="Sim" sequence="100" value="Sim"/>
+                <element dependent_value="Não" inactive_on_update="false" label="Não" sequence="200" value="Não"/>
+            </choice>
+        </element>
+        <element choice="1" label="Salário" max_length="15" name="sal_rio" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="mil" sequence="0" value="mil"/>
+                <element inactive_on_update="false" label="2 mil" sequence="1" value="2mil"/>
+                <element inactive_on_update="false" label="3 mil" sequence="2" value="3mil"/>
+                <element inactive_on_update="false" label="4 mil" sequence="3" value="4mil"/>
+                <element inactive_on_update="false" label="5 mil" sequence="4" value="5mil"/>
+            </choice>
+        </element>
+    </element>
+</database>

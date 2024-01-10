@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="caa6dc9797063110489d747e6253af54" label="Formulário 4" max_length="40" name="x_1173448_contra_0_formul_rio_4" text_index="true" type="collection">
+        <element label="E-mail" max_length="40" name="e_mail" type="string"/>
+        <element label="Nome" max_length="40" name="nome" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Você aceita a data de entrevista técnica sugerida?" max_length="40" name="voce_aceita_a_data_de_entrevista_tecnica_sugerida" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Aceito" sequence="0" value="aceito"/>
+                <element inactive_on_update="false" label="Não aceito" sequence="1" value="n_o_aceito"/>
+            </choice>
+        </element>
+    </element>
+</database>

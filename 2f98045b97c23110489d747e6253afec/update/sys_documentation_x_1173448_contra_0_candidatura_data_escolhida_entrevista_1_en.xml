@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="data_escolhida_entrevista_1" label="Data Escolhida/Entrevista 1" language="en" table="x_1173448_contra_0_candidatura">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>data_escolhida_entrevista_1</element>
+            <help/>
+            <hint/>
+            <label>Data Escolhida/Entrevista 1</label>
+            <language>en</language>
+            <name>x_1173448_contra_0_candidatura</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-27 22:19:44</sys_created_on>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Data Escolhida/Entrevista 1</sys_name>
+            <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+            <sys_update_name>sys_documentation_x_1173448_contra_0_candidatura_data_escolhida_entrevista_1_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-27 22:19:44</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>d4f691f797423110489d747e6253af7a</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes>{"login":"login","logout": "login"}</auth_routes>
+        <page/>
+        <parent_app/>
+        <path>contra</path>
+        <root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-29 16:19:15</sys_created_on>
+        <sys_id>1cf691f7774231102f4bc1f317d925c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contratação</sys_name>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_update_name>sys_ux_page_registry_1cf691f7774231102f4bc1f317d925c7</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-29 16:19:15</sys_updated_on>
+        <title>Contratação</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Contratação">2f98045b97c23110489d747e6253afec</application>
+        <file_path/>
+        <instance_id>75ed3991db8bff400ae3ac44d4961901</instance_id>
+        <instance_name>dev90474</instance_name>
+        <name>sys_ux_page_registry_1cf691f7774231102f4bc1f317d925c7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>d4f691f797423110489d747e6253af7a</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes>{"login":"login","logout": "login"}</auth_routes><page/><parent_app/><path>contra</path><root_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-10-29 16:19:15</sys_created_on><sys_id>1cf691f7774231102f4bc1f317d925c7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Contratação</sys_name><sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package><sys_policy/><sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope><sys_update_name>sys_ux_page_registry_1cf691f7774231102f4bc1f317d925c7</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-10-29 16:19:15</sys_updated_on><title>Contratação</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>1534237816</payload_hash>
+        <record_name>Contratação</record_name>
+        <reverted_from/>
+        <source>f231d62097023110489d747e6253afed</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-10-19 18:13:36</sys_created_on>
+        <sys_id>ebef55ff97423110489d747e6253af8f</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18b492494800000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>abef55ff2c4231105b03b9c3303f7a8f</update_guid>
+        <update_guid_history>abef55ff2c4231105b03b9c3303f7a8f:1534237816</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-29 16:58:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>10b3bea76d844058a7fda7cca7cb5ee9</sys_id>
+        <sys_metadata>1cf691f7774231102f4bc1f317d925c7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Contratação</sys_name>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_scope_delete display_value="">1bd4c27df2b947a4a2659d1514e9c3c4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_1cf691f7774231102f4bc1f317d925c7</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_1cf691f7774231102f4bc1f317d925c7">ebef55ff97423110489d747e6253af8f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-29 16:58:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

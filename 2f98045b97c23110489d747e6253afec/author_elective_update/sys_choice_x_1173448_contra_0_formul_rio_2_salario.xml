@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="salario" table="x_1173448_contra_0_formul_rio_2" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>salario</element>
+            <name>x_1173448_contra_0_formul_rio_2</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-27 22:05:11</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>salario</sys_name>
+            <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+            <sys_update_name>sys_choice_x_1173448_contra_0_formul_rio_2_salario</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-27 22:05:11</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>salario</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1 mil reais</label>
+            <language>en</language>
+            <name>x_1173448_contra_0_formul_rio_2</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-27 22:05:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ddf254d397063110489d747e6253afb7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-27 22:05:11</sys_updated_on>
+            <value>mil_reais</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>salario</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2 mil reais</label>
+            <language>en</language>
+            <name>x_1173448_contra_0_formul_rio_2</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-27 23:31:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>52c6e01b97463110489d747e6253afdf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-27 23:31:50</sys_updated_on>
+            <value>2mil_reais</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>salario</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3 mil reais</label>
+            <language>en</language>
+            <name>x_1173448_contra_0_formul_rio_2</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-27 23:31:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>52c6e01b97463110489d747e6253afe0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-27 23:31:50</sys_updated_on>
+            <value>3mil_reais</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>salario</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4 mil reais</label>
+            <language>en</language>
+            <name>x_1173448_contra_0_formul_rio_2</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-27 23:31:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dec6e01b97463110489d747e6253afe0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-27 23:31:50</sys_updated_on>
+            <value>4mil_reais</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>salario</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>5 mil reais</label>
+            <language>en</language>
+            <name>x_1173448_contra_0_formul_rio_2</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-27 23:31:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ec6e01b97463110489d747e6253afe1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-27 23:31:50</sys_updated_on>
+            <value>5mil_reais</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

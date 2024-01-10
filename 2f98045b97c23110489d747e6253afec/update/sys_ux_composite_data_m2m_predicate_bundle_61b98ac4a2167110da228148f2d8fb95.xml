@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Tasks Dataset">a9b98ac4f4167110cb4fd30e6f132896</dataset>
+        <order/>
+        <predicate_bundle display_value="My Tasks - Task bundle">65b98ac4c61671105e3e5d20ed7e0f94</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-30 14:39:30</sys_created_on>
+        <sys_id>61b98ac4a2167110da228148f2d8fb95</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Contratação" source="x_1173448_contra_0">2f98045b97c23110489d747e6253afec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contratação">2f98045b97c23110489d747e6253afec</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_61b98ac4a2167110da228148f2d8fb95</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-30 14:39:30</sys_updated_on>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>
